@@ -7,10 +7,9 @@ The Permissionless, Composable, and Modular infrastructure to build and distribu
 
 ## Learn and Explore
 
-- https://www.dappstorekit.io
-- dApp Store Kit Docs - https://docs.dappstorekit.io/
-- API Docs https://docs.meroku.store/#/
-
+- Protocol App - https://meroku.org
+- Docs - https://docs.meroku.org/
+- dApp Store Kit - https://dappstorekit.io
 
 ## Social
 
