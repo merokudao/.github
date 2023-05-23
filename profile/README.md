@@ -15,3 +15,4 @@ The Permissionless, Composable, and Modular infrastructure to build and distribu
 
 - Twitter http://twitter.com/merokustore
 - Discord https://discord.gg/p86yN847Vt
+- Community Support https://meroku.discourse.group
