@@ -7,18 +7,17 @@ The Permissionless, Composable, and Modular infrastructure to build and distribu
 
 ## Learn and Explore
 
-- Protocol App - [https://meroku.org](https://meroku.org)
-- Docs - [https://docs.meroku.org/](https://docs.meroku.org/)
-- dApp Store Kit - [https://dappstorekit.io](https://docs.dappstorekit.io/docs/start-here)
+- MerokuAI - [https://meroku.ai](https://meroku.ai)
+- PlsGib - [https://plsgib.com](https://plsgib.com)
 
 ## Social
 
-- Twitter [https://twitter.com/merokustore](https://twitter.com/merokustore)
+- Twitter [https://twitter.com/merokuai](https://twitter.com/merokuai)
 - Farcaster [/dappstore](https://warpcast.com/~/channel/dappstore)
-- Discord [Invite URL https://discord.gg/p86yN847Vt](https://discord.gg/p86yN847Vt)
+- Discord [Invite URL https://discord.gg/Gztjb84ev8](https://discord.gg/Gztjb84ev8)
 
 
 ## Support
 
-- Reach out to us on Twitter or Farcaster
+- Reach out to us on Discord
 
